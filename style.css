@@ -1,0 +1,166 @@
+body.dark-mode {
+    background: #252B42;
+
+    color: white;
+}
+
+
+body.dark-mode h1 {
+    color: #ffcc00;
+}
+
+body.dark-mode p {
+    font-size: 1.2em;
+}
+
+.topnav a:hover {
+    background-color: #992424;
+    color: black;
+}
+
+
+/* .btn {
+    width: 100px;
+    height: 52px;
+} */
+
+.btn {
+    width: 144px;
+    height: 52px;
+    padding: 0px 77px 0px 0px;
+    gap: 0px;
+    opacity: 0px;
+
+}
+
+.btn-1st {
+    width: Hug (193px)px;
+    height: Hug (52px)px;
+    padding: 15px 40px 15px 40px;
+    gap: 10px;
+    border-radius: 5px 0px 0px 0px;
+    opacity: 0px;
+}
+
+
+.btn-sec {
+    border: 1px solid #23A6F0
+}
+
+.btn-sec {
+    width: Hug (300px)px;
+    height: Hug (52px)px;
+    padding: 15px 40px 15px 40px;
+    gap: 10px;
+    border-radius: 5px 0px 0px 0px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+    border: 1px solid #23A6F0
+}
+
+
+.btn-1st {
+    transition: all 0.3s ease;
+    /* Smooth transition for the hover effect */
+}
+
+.btn-1st:hover {
+    background-color: #0056b3;
+    /* Change the background color on hover */
+    transform: scale(1.05);
+    /* Slightly increase the size on hover */
+}
+
+.btn-1st:hover {
+    background-color: #0056b3;
+    transform: scale(1.05);
+
+}
+
+
+
+
+/* ---------------------------------------------- */
+.bsb-circle {
+    width: 704px;
+    height: 682px;
+    padding: 54px 36px 54px 36px;
+    gap: 0px;
+    opacity: 0px;
+
+
+}
+
+.w3-red {
+    width: 94px;
+    height: 7px;
+    gap: 0px;
+    opacity: 0px;
+}
+
+/* -----------------------------cards-item--------------------------- */
+
+.custom-margin-bottom {
+    margin-top: 12rem;
+}
+
+.w4-red {
+    width: 50px;
+    height: 2px;
+    gap: 0px;
+    opacity: 0px;
+}
+
+.emogi {
+    padding: 22px 19px 22px 19px;
+    gap: 10px;
+    border-radius: 10px 0px 0px 0px;
+    opacity: 0px;
+    background-color: #B9EAA8;
+
+}
+
+.card-img-first {
+    background-image: url(img/product-cover-17.png);
+    background-size: cover;
+    height: 40vh;
+    background-position: center;
+}
+
+.card-img-sec {
+    background-image: url(img/product-cover-19.png);
+    background-size: cover;
+    height: 40vh;
+    background-position: center;
+}
+
+
+.card-img-third {
+    background-image: url(img/product-cover-18.png);
+    background-size: cover;
+    height: 40vh;
+    background-position: center;
+}
+
+.badge {
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0.20000000298023224px;
+    text-align: center;
+}
+
+.icon-fa {
+    font-size: 30px;
+    background-color: white;
+    border-radius: 50px;
+    width: 100px;
+    height: 56px;
+    position: relative;
+    bottom: 30px;
+}
+
+
+
+/* -------------------------------------------------------------------- */
